@@ -96,7 +96,7 @@ var fight = function(enemyName) {
         break;
     }
   }
-
+    // need to inspect
     // play again
     startGame(); 
   
